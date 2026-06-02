@@ -1,0 +1,15 @@
+# #What I did today
+1)2 hours attended the morning class which is on Linux basic.
+2)1 hourAfter some time watched video in 2k speed and commented on youtube video.
+3)3 hours created AWS account and setup EC2 instance and integrated git in it.
+4)2 hours watched previous batch video and learned linux important commands
+5)2 written code for two days like yesterday and todays
+6)attended evening session at 9pm to 9:30pm and given introduction of myself and also talked about morning session topic.
+
+
+# #Tomorrow's Task
+1)i will attend morning class at 6 am.
+2)after attending the class i will  watch video again youtube and comment on the video
+3)i will watch videos of  previous batch on linux topic.
+4)i will create file of daily activity and and push code for day3.
+5)i will attend the evening session and write the code and push over the git.
