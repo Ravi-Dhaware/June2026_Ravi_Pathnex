@@ -1,0 +1,17 @@
+# #What I did today
+1)2 hours attended the morning class which is on Devops Roadmaps
+2)1 hourAfter some time watched video in 2k speed and commented on youtube video
+3)1 hours prepaired for document on devops roadmap for evening class/session
+4)2 hours watched previous batch video
+5)1 hour watched on vide on VM and networking
+6)attended evening session at 8pm to 8:30pm and given introduction of myself and also talked about morning session topic.
+
+
+# #Tomorrow's Task
+1)i will attend morning class at 7 am.
+2)after attending the class watch video again and comment on the video
+3)crete account on AWS and setup the EC2 instance on it.
+4)i will watch video of intigrate the EC2+github+git together
+5)create file of daily activity and and push code for day1 and 2 because it was remaining.
+6)watch previous batch video on linux topic
+
