@@ -1,0 +1,19 @@
+# #What I did today
+1)2 hours attended the morning class which is on Linux and private key and public key,learned about the root user,bash history.
+2)1 hourAfter some time watched video in 2k speed and commented on youtube video.
+3)3 hours i was facing the problem related SSH connection with EC2 instance and mobaxterm and resolved this issue finally.
+4)2 hours watched previous batch video and learned linux important commands & watched video on git and github again on youtube.
+5)1 hour written  code for day 3 and learned about the this code from chat gpt.
+6)attended evening session at 9pm to 9:30pm and given introduction of myself and also talked about morning session topic.
+7)finally pushed the code of coding pratice and daily activity of  full day over the repository.
+
+
+# #Tomorrow's Task
+1)i will attend morning class at 6 am.
+2)after attending the class i will  watch video again youtube and comment on the video
+3)i will watch videos of  previous batch on linux topic.
+4)i will create file of daily activity and coding pratice.push code for day3 over the git hub repository.
+5)i will attend the evening session 9pm to 9:30pm.
+6)i will the push code for day3 over the git hub repository.
+7)i will reaad the interview quetions.
+
