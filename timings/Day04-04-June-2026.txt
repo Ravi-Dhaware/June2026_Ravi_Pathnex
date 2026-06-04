@@ -1,0 +1,17 @@
+# #What I did today
+1)3 hours attended the morning class which is on Linux advanced commands,troubleshooting commands(Top,kill,pkill), tail and head,learned about the df and du, umask,etc
+2)1.5  hourAfter some time watched video in 2k speed and commented on youtube video.
+3)3 hours watched previous batch video and learned linux important commands & hard link and soft link,greap command,tar and gzip for commepress the file,
+5)1 hour written  code for day 4 and learned and got understand  about the this code from chat gpt.explained each and every code line by line.
+6)attended evening session at 9pm to 9:30pm and given introduction of myself and also talked about morning session topic.
+7)finally pushed the code of coding pratice and daily activity of  full day over the git hub repository.
+
+
+# #Tomorrow's Task
+1)i will attend morning class at 6 am.
+2)after attending the class i will  watch video again youtube and comment on the video
+3)i will watch videos of  previous batch on linux topic.
+4)i will create file of daily activity and coding pratice.
+5)i will attend the evening session 9pm to 9:30pm.
+6)i will the push code for day5 over the git hub repository.
+7)i will read the interview quetions of linux.
