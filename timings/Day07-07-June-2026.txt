@@ -1,0 +1,15 @@
+# #What I did today
+1)3 hours watched previous batch video and learned about aws.
+2)2 hours performed the linux practical.
+2)1 hour written  code for day 7 and learned and got understand  about the this code from chat gpt.explained each and every line of code.
+3)finally pushed the code of coding pratice and daily activity of  full day over the git hub repository.
+
+
+# #Tomorrow's Task
+1)i will attend morning class at 6 am.
+2)after attending the class i will  watch video again youtube and comment on the video
+3)i will watch videos of  previous batch on AWS topic.
+4)i will create file of daily activity and coding pratice.
+5)i will attend the evening session.
+6)i will the push code for day8 over the git hub repository.
+7)i will read the interview quetions of AWS.
